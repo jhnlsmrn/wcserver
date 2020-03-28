@@ -13,6 +13,9 @@
       <a class="nav-link" href="/Members">Members</a>
     </li>
     <li class="nav-item">
+      <a class="nav-link" href="/Events">Events</a>
+    </li>
+    <li class="nav-item">
       <a class="nav-link" href="/Signup">Signup</a>
     </li>
     <li class="nav-item">

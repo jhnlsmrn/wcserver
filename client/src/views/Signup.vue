@@ -60,9 +60,10 @@
         </div>
     </div>
     </div>
-<footer id="footer"> 
-    COPYRIGHT &copy; WEEABOO 2020 | ALL RIGHTS RESERVED.
-</footer>
+  <footer class="page-footer font-small special-color-dark pt-1">
+    <div class="footer-copyright text-center py-3">© 2020 Copyright Monsta X Amino Apps
+    </div>
+  </footer>
 </div>
 </template>
 

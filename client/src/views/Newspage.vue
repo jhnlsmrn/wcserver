@@ -3,7 +3,7 @@
   <div class="news-explore">
     <img src="../assets/explore.jpg" alt="explore">
     <div class="left">
-        E x p l o r e<h2>NEWS</h2>/////////////////////
+        E x p l o r e<h2>NEWS</h2>///////////////////
     </div>
 
   <div class="news-wrapper">

@@ -25,5 +25,17 @@
     </div>
     </div>
     </div>
+<footer class="page-footer font-small special-color-dark pt-1 login">
+    <div class="footer-copyright text-center py-3">© 2020 Copyright Monsta X Amino Apps
+    </div>
+</footer>
 </div>
 </template>
+
+<style>
+footer.login{
+    position: absolute;
+    bottom: 0;
+    margin: 0 auto;
+}
+</style>

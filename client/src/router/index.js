@@ -6,6 +6,7 @@ import Login from '../views/Login.vue'
 import Newspage from '../views/Newspage.vue'
 import Members from '../views/Members.vue'
 import About from '../views/About.vue'
+import Events from '../views/Events.vue'
 
 Vue.use(VueRouter)
 
@@ -39,6 +40,11 @@ const routes = [
     path: '/About',
     name: 'About',
     component: About
+  },
+  {
+    path: '/Events',
+    name: 'Events',
+    component: Events
   }
 ]
 
